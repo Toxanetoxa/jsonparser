@@ -17,3 +17,4 @@
 ```README.md               index.js                node_modules            output                  package-lock.json       package.json            users.json```}
 8. Запускаешь команду ```npm run dev```
 9. Получаешь результат в папке /output
+<img src="https://ca-times.brightspotcdn.com/dims4/default/efaecdc/2147483647/strip/true/crop/3962x2080+0+0/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F03%2F84%2F4788b80f4bf88294e91df874de96%2Frev-1-bar-tt3-0104-high-res-jpeg.jpeg">
