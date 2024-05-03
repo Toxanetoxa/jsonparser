@@ -8,7 +8,25 @@ const outputDir = './output';
 
 const users = []
 data["employees"].forEach(el => {
-    if (el["userName"]) users.push(el["userName"])
+    let workPlace = []
+
+    if (el["profile"]) {
+         el.profile.forEach(item => {
+             workPlace.push(item["jobTitleId"])
+        })
+    }
+
+    if (el["workPlaces"]) {
+        el["workPlaces"].forEach(item => {
+            workPlace.push(item["jobTitleId"])
+        })
+    }
+
+    users.push({
+        "fio": el["fio"],
+        "userName": el["userName"],
+        "workPlaces": Array.from(new Set(workPlace))
+    })
 })
 
 const selectedData = {

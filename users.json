@@ -1,6 +1,1068 @@
 {
     "employees": [
         {
+            "id": 464,
+            "regDate": "2024-05-02T14:07:19.361Z",
+            "fio": "ильинский алексей",
+            "snils": "087-465-606 09",
+            "workPlaces": [
+                {
+                    "id": 774,
+                    "regDate": "2024-05-02T14:07:19.363Z",
+                    "departmentId": 20,
+                    "jobTitleId": 79,
+                    "specialityId": 5,
+                    "startWorkDate": "2024-05-02T14:06:25.933Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 464,
+                    "updated": "2024-05-02T14:08:07.828Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "ILINSKIIA",
+            "userId": 1375,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": [
+                {
+                    "id": 177,
+                    "jobTitleId": 79,
+                    "departmentId": 20
+                }
+            ]
+        },
+        {
+            "id": 463,
+            "regDate": "2024-05-02T08:52:31.283Z",
+            "fio": "чурилов сергей сергеевич",
+            "snils": "141-797-547 92",
+            "workPlaces": [
+                {
+                    "id": 773,
+                    "regDate": "2024-05-02T08:52:31.283Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:52:04.785Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 463,
+                    "updated": "2024-05-02T08:52:39.905Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "CHURILOVSS",
+            "userId": 1374,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 462,
+            "regDate": "2024-05-02T08:51:38.356Z",
+            "fio": "томашевская ирина аслановна",
+            "snils": "183-907-192 98",
+            "workPlaces": [
+                {
+                    "id": 772,
+                    "regDate": "2024-05-02T08:51:38.357Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:51:11.576Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 462,
+                    "updated": "2024-05-02T08:52:01.556Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "TOMASHEVSKAIAIA",
+            "userId": 1373,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 461,
+            "regDate": "2024-05-02T08:50:48.987Z",
+            "fio": "скрипова анастасия сергеевна",
+            "snils": "183-836-554 08",
+            "workPlaces": [
+                {
+                    "id": 771,
+                    "regDate": "2024-05-02T08:50:48.988Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:50:23.526Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 461,
+                    "updated": "2024-05-02T08:50:57.407Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "SKRIPOVAAS",
+            "userId": 1372,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 460,
+            "regDate": "2024-05-02T08:49:57.531Z",
+            "fio": "савотченко светлана александровна",
+            "snils": "177-487-793 46",
+            "workPlaces": [
+                {
+                    "id": 770,
+                    "regDate": "2024-05-02T08:49:57.531Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:49:32.477Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 460,
+                    "updated": "2024-05-02T08:50:06.737Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "SAVOTCHENKOSA",
+            "userId": 1371,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 459,
+            "regDate": "2024-05-02T08:48:45.162Z",
+            "fio": "романова наталия владимировна",
+            "snils": "154-569-210 80",
+            "workPlaces": [
+                {
+                    "id": 769,
+                    "regDate": "2024-05-02T08:48:45.163Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:48:17.953Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 459,
+                    "updated": "2024-05-02T08:48:54.284Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "ROMANOVANV",
+            "userId": 1370,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 458,
+            "regDate": "2024-05-02T08:47:55.773Z",
+            "fio": "николаева мария николаевна",
+            "snils": "124-771-895 80",
+            "workPlaces": [
+                {
+                    "id": 768,
+                    "regDate": "2024-05-02T08:47:55.774Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:45:53.039Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 458,
+                    "updated": "2024-05-02T08:48:04.259Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "NIKOLAEVAMN",
+            "userId": 1369,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 457,
+            "regDate": "2024-05-02T08:45:29.393Z",
+            "fio": "милюкова ирина александровна",
+            "snils": "062-422-627 32",
+            "workPlaces": [
+                {
+                    "id": 767,
+                    "regDate": "2024-05-02T08:45:29.394Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:44:58.716Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 457,
+                    "updated": "2024-05-02T08:45:38.075Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "MILIUKOVAIA",
+            "userId": 1368,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 456,
+            "regDate": "2024-05-02T08:43:57.67Z",
+            "fio": "лысенко иван валериевич",
+            "snils": "223-774-451 70",
+            "workPlaces": [
+                {
+                    "id": 766,
+                    "regDate": "2024-05-02T08:43:57.671Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:43:23.989Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 456,
+                    "updated": "2024-05-02T08:43:57.671Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "LYSENKOIV",
+            "userId": 1367,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 454,
+            "regDate": "2024-05-02T08:40:11.491Z",
+            "fio": "кублицкая елена дмитриевна",
+            "snils": "152-701-465 37",
+            "workPlaces": [
+                {
+                    "id": 765,
+                    "regDate": "2024-05-02T08:40:11.492Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:39:47.222Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 454,
+                    "updated": "2024-05-02T08:40:21.021Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "KUBLITSKAIAED",
+            "userId": 1366,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 453,
+            "regDate": "2024-05-02T08:39:12.845Z",
+            "fio": "карнович дарья владимировна",
+            "snils": "156-237-099 72",
+            "workPlaces": [
+                {
+                    "id": 764,
+                    "regDate": "2024-05-02T08:39:12.846Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:38:41.503Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 453,
+                    "updated": "2024-05-02T08:39:23.282Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "KARNOVICHDV",
+            "userId": 1365,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 452,
+            "regDate": "2024-05-02T08:37:52.811Z",
+            "fio": "захаров илья игоревич",
+            "snils": "153-518-707 64",
+            "workPlaces": [
+                {
+                    "id": 763,
+                    "regDate": "2024-05-02T08:37:52.812Z",
+                    "departmentId": 1,
+                    "jobTitleId": 18,
+                    "specialityId": 5,
+                    "startWorkDate": "2024-05-02T08:37:11.618Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 452,
+                    "updated": "2024-05-02T08:38:26.345Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "ZAKHAROVII",
+            "userId": 1364,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": [
+                {
+                    "id": 231,
+                    "jobTitleId": 18,
+                    "departmentId": 1
+                }
+            ]
+        },
+        {
+            "id": 451,
+            "regDate": "2024-05-02T08:36:17.173Z",
+            "fio": "зарецкая олеся валентиновна",
+            "snils": "079-838-053 25",
+            "workPlaces": [
+                {
+                    "id": 762,
+                    "regDate": "2024-05-02T08:36:17.174Z",
+                    "departmentId": 1,
+                    "jobTitleId": 17,
+                    "specialityId": 5,
+                    "startWorkDate": "2024-05-02T08:35:49.446Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 451,
+                    "updated": "2024-05-02T08:36:35.336Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "ZARETSKAIAOV",
+            "userId": 1363,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": [
+                {
+                    "id": 230,
+                    "jobTitleId": 17,
+                    "departmentId": 1
+                }
+            ]
+        },
+        {
+            "id": 450,
+            "regDate": "2024-05-02T08:34:42.675Z",
+            "fio": "джафарова диана адильевна",
+            "snils": "205-702-584 37",
+            "workPlaces": [
+                {
+                    "id": 761,
+                    "regDate": "2024-05-02T08:34:42.676Z",
+                    "departmentId": 1,
+                    "jobTitleId": 18,
+                    "specialityId": 5,
+                    "startWorkDate": "2024-05-02T08:34:19.439Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 450,
+                    "updated": "2024-05-02T08:34:59.495Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "DZHAFAROVADA",
+            "userId": 1362,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": [
+                {
+                    "id": 231,
+                    "jobTitleId": 18,
+                    "departmentId": 1
+                }
+            ]
+        },
+        {
+            "id": 449,
+            "regDate": "2024-05-02T08:33:28.945Z",
+            "fio": "гоцкалюк мария дмитриевна",
+            "snils": "186-104-750 67",
+            "workPlaces": [
+                {
+                    "id": 760,
+                    "regDate": "2024-05-02T08:33:28.947Z",
+                    "departmentId": 1,
+                    "jobTitleId": 18,
+                    "specialityId": 5,
+                    "startWorkDate": "2024-05-02T08:33:03.679Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 449,
+                    "updated": "2024-05-02T08:33:43.914Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "GOTSKALIUKMD",
+            "userId": 1361,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": [
+                {
+                    "id": 231,
+                    "jobTitleId": 18,
+                    "departmentId": 1
+                }
+            ]
+        },
+        {
+            "id": 448,
+            "regDate": "2024-05-02T08:32:24.045Z",
+            "fio": "воробьев андрей николаевич",
+            "snils": "004-839-771 62",
+            "workPlaces": [
+                {
+                    "id": 759,
+                    "regDate": "2024-05-02T08:32:24.047Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:31:49.865Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 448,
+                    "updated": "2024-05-02T08:32:29.976Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "VOROBEVAN",
+            "userId": 1360,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 447,
+            "regDate": "2024-05-02T08:31:04.777Z",
+            "fio": "волков николай николаевич",
+            "snils": "007-285-022 26",
+            "workPlaces": [
+                {
+                    "id": 758,
+                    "regDate": "2024-05-02T08:31:04.778Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:30:36.913Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 447,
+                    "updated": "2024-05-02T08:31:10.21Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "VOLKOVNN",
+            "userId": 1359,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 446,
+            "regDate": "2024-05-02T08:29:23.266Z",
+            "fio": "васильев александр викторович",
+            "snils": "062-378-525 70",
+            "workPlaces": [
+                {
+                    "id": 757,
+                    "regDate": "2024-05-02T08:29:23.267Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:28:54.594Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 446,
+                    "updated": "2024-05-02T08:29:35.531Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "VASILEVAV",
+            "userId": 1358,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 445,
+            "regDate": "2024-05-02T08:27:46.278Z",
+            "fio": "ваганова тамара петровна",
+            "snils": "198-270-752 15",
+            "workPlaces": [
+                {
+                    "id": 756,
+                    "regDate": "2024-05-02T08:27:46.279Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:27:13.439Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 445,
+                    "updated": "2024-05-02T08:27:58.049Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "VAGANOVATP",
+            "userId": 1357,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 444,
+            "regDate": "2024-05-02T08:26:37.569Z",
+            "fio": "быкова илонна николаевна",
+            "snils": "105-365-778 54",
+            "workPlaces": [
+                {
+                    "id": 755,
+                    "regDate": "2024-05-02T08:26:37.57Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:23:29.184Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 444,
+                    "updated": "2024-05-02T08:26:49.897Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "BYKOVAIN",
+            "userId": 1356,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 443,
+            "regDate": "2024-05-02T08:22:49.675Z",
+            "fio": "белоцерковский борис зиновьевич",
+            "snils": "066-373-613 77",
+            "workPlaces": [
+                {
+                    "id": 754,
+                    "regDate": "2024-05-02T08:22:49.676Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:22:13.911Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 443,
+                    "updated": "2024-05-02T08:23:02.127Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "BELOTSERKOVSKIIBZ",
+            "userId": 1355,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 442,
+            "regDate": "2024-05-02T08:17:57.178Z",
+            "fio": "байсангурова амина эльбрусовна",
+            "snils": "183-970-381 07",
+            "workPlaces": [
+                {
+                    "id": 753,
+                    "regDate": "2024-05-02T08:17:57.179Z",
+                    "departmentId": 1,
+                    "jobTitleId": 29,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:16:08.27Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 442,
+                    "updated": "2024-05-02T08:18:24.96Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "BAISANGUROVAAE",
+            "userId": 1354,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 441,
+            "regDate": "2024-05-02T08:15:19.549Z",
+            "fio": "антипова елена ивановна",
+            "snils": "059-541-008 64",
+            "workPlaces": [
+                {
+                    "id": 752,
+                    "regDate": "2024-05-02T08:15:19.55Z",
+                    "departmentId": 1,
+                    "jobTitleId": 30,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:14:50.87Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 441,
+                    "updated": "2024-05-02T08:15:30.645Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "ANTIPOVAEI",
+            "userId": 1353,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 440,
+            "regDate": "2024-05-02T08:12:52.018Z",
+            "fio": "анисимова наталья анатольевна",
+            "snils": "004-504-352 95",
+            "workPlaces": [
+                {
+                    "id": 751,
+                    "regDate": "2024-05-02T08:12:52.019Z",
+                    "departmentId": 1,
+                    "jobTitleId": 30,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-05-02T08:11:42.344Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 440,
+                    "updated": "2024-05-02T08:13:45.296Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "ANISIMOVANA",
+            "userId": 1352,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": []
+        },
+        {
+            "id": 439,
+            "regDate": "2024-05-02T08:10:14.854Z",
+            "fio": "анисимова екатерина николаевна",
+            "snils": "194-213-183 59",
+            "workPlaces": [
+                {
+                    "id": 750,
+                    "regDate": "2024-05-02T08:10:14.858Z",
+                    "departmentId": 1,
+                    "jobTitleId": 18,
+                    "specialityId": 5,
+                    "startWorkDate": "2024-05-02T08:07:49.215Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 439,
+                    "updated": "2024-05-02T08:10:28.524Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "ANISIMOVAEN",
+            "userId": 1351,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": [
+                {
+                    "id": 231,
+                    "jobTitleId": 18,
+                    "departmentId": 1
+                }
+            ]
+        },
+        {
+            "id": 438,
+            "regDate": "2024-04-27T14:20:23.628Z",
+            "fio": "тимофеева анна александровна",
+            "snils": "137-416-480 62",
+            "workPlaces": [
+                {
+                    "id": 749,
+                    "regDate": "2024-04-27T14:20:23.629Z",
+                    "departmentId": 5,
+                    "jobTitleId": 27,
+                    "specialityId": 27,
+                    "startWorkDate": "2024-04-21T21:00:00Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 438,
+                    "updated": "2024-04-27T14:20:37.323Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "TIMOFEEVAAA",
+            "userId": 1350,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": [
+                {
+                    "id": 186,
+                    "jobTitleId": 27,
+                    "departmentId": 5
+                }
+            ]
+        },
+        {
+            "id": 437,
+            "regDate": "2024-04-27T14:17:52.4Z",
+            "fio": "алиев эльчин ильяс оглы",
+            "snils": "014-874-050 44",
+            "workPlaces": [
+                {
+                    "id": 748,
+                    "regDate": "2024-04-27T14:17:52.402Z",
+                    "departmentId": 4,
+                    "jobTitleId": 34,
+                    "specialityId": 28,
+                    "startWorkDate": "2024-04-27T14:17:01.637Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 437,
+                    "updated": "2024-04-27T14:18:20.054Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "ALIEVEI",
+            "userId": 1349,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": [
+                {
+                    "id": 196,
+                    "jobTitleId": 34,
+                    "departmentId": 4
+                }
+            ]
+        },
+        {
+            "id": 436,
+            "regDate": "2024-04-27T13:09:34.094Z",
+            "fio": "леонтьева татьяна николаевна",
+            "snils": "132-126-636 16",
+            "workPlaces": [
+                {
+                    "id": 747,
+                    "regDate": "2024-04-27T13:09:34.096Z",
+                    "departmentId": 1,
+                    "jobTitleId": 28,
+                    "specialityId": 9,
+                    "startWorkDate": "2024-04-27T13:07:49.701Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 436,
+                    "updated": "2024-04-27T14:18:37.935Z",
+                    "status": "active"
+                }
+            ],
+            "status": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "note": null,
+            "userName": "LEONTEVATN",
+            "userId": 1348,
+            "userStatus": {
+                "code": "active",
+                "name": "Активен"
+            },
+            "searchMatchStart": 0,
+            "searchMatchEnd": 0,
+            "searchMatchField": "fio",
+            "profiles": [
+                {
+                    "id": 229,
+                    "jobTitleId": 28,
+                    "departmentId": 1
+                }
+            ]
+        },
+        {
             "id": 435,
             "regDate": "2024-04-25T14:37:30.685Z",
             "fio": "жабина светлана владимировна",
@@ -91,19 +1153,6 @@
             "snils": "028-595-982 10",
             "workPlaces": [
                 {
-                    "id": 734,
-                    "regDate": "2024-04-23T08:43:19.008Z",
-                    "departmentId": 20,
-                    "jobTitleId": 79,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-23T08:41:55.244Z",
-                    "endWorkDate": null,
-                    "profileId": null,
-                    "employeeId": 433,
-                    "updated": "2024-04-23T08:44:29.669Z",
-                    "status": "active"
-                },
-                {
                     "id": 735,
                     "regDate": "2024-04-23T08:44:15.301Z",
                     "departmentId": 5,
@@ -114,6 +1163,19 @@
                     "profileId": null,
                     "employeeId": 433,
                     "updated": "2024-04-23T08:44:29.67Z",
+                    "status": "active"
+                },
+                {
+                    "id": 734,
+                    "regDate": "2024-04-23T08:43:19.008Z",
+                    "departmentId": 20,
+                    "jobTitleId": 79,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-23T08:41:55.244Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 433,
+                    "updated": "2024-04-23T08:44:29.669Z",
                     "status": "active"
                 }
             ],
@@ -133,14 +1195,14 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 177,
-                    "jobTitleId": 79,
-                    "departmentId": 20
-                },
-                {
                     "id": 180,
                     "jobTitleId": 18,
                     "departmentId": 5
+                },
+                {
+                    "id": 177,
+                    "jobTitleId": 79,
+                    "departmentId": 20
                 }
             ]
         },
@@ -235,45 +1297,6 @@
             "snils": "083-367-324 77",
             "workPlaces": [
                 {
-                    "id": 729,
-                    "regDate": "2024-04-22T14:16:07.952Z",
-                    "departmentId": 20,
-                    "jobTitleId": 79,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-22T14:13:38.384Z",
-                    "endWorkDate": null,
-                    "profileId": null,
-                    "employeeId": 430,
-                    "updated": "2024-04-26T06:28:30.287Z",
-                    "status": "active"
-                },
-                {
-                    "id": 739,
-                    "regDate": "2024-04-24T13:37:37.885Z",
-                    "departmentId": 17,
-                    "jobTitleId": 18,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-22T14:14:52.916Z",
-                    "endWorkDate": null,
-                    "profileId": null,
-                    "employeeId": 430,
-                    "updated": "2024-04-26T06:28:30.287Z",
-                    "status": "active"
-                },
-                {
-                    "id": 730,
-                    "regDate": "2024-04-22T14:16:07.954Z",
-                    "departmentId": 5,
-                    "jobTitleId": 18,
-                    "specialityId": 5,
-                    "startWorkDate": "2024-04-22T14:13:38.384Z",
-                    "endWorkDate": null,
-                    "profileId": null,
-                    "employeeId": 430,
-                    "updated": "2024-04-26T06:28:30.286Z",
-                    "status": "active"
-                },
-                {
                     "id": 746,
                     "regDate": "2024-04-26T06:26:21.11Z",
                     "departmentId": 20,
@@ -298,6 +1321,45 @@
                     "employeeId": 430,
                     "updated": "2024-04-26T06:28:30.287Z",
                     "status": "active"
+                },
+                {
+                    "id": 730,
+                    "regDate": "2024-04-22T14:16:07.954Z",
+                    "departmentId": 5,
+                    "jobTitleId": 18,
+                    "specialityId": 5,
+                    "startWorkDate": "2024-04-22T14:13:38.384Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 430,
+                    "updated": "2024-04-26T06:28:30.286Z",
+                    "status": "active"
+                },
+                {
+                    "id": 739,
+                    "regDate": "2024-04-24T13:37:37.885Z",
+                    "departmentId": 17,
+                    "jobTitleId": 18,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-22T14:14:52.916Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 430,
+                    "updated": "2024-04-26T06:28:30.287Z",
+                    "status": "active"
+                },
+                {
+                    "id": 729,
+                    "regDate": "2024-04-22T14:16:07.952Z",
+                    "departmentId": 20,
+                    "jobTitleId": 79,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-22T14:13:38.384Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 430,
+                    "updated": "2024-04-26T06:28:30.287Z",
+                    "status": "active"
                 }
             ],
             "status": {
@@ -316,14 +1378,9 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 180,
+                    "id": 178,
                     "jobTitleId": 18,
-                    "departmentId": 5
-                },
-                {
-                    "id": 177,
-                    "jobTitleId": 79,
-                    "departmentId": 20
+                    "departmentId": 2
                 },
                 {
                     "id": 226,
@@ -331,9 +1388,14 @@
                     "departmentId": 17
                 },
                 {
-                    "id": 178,
+                    "id": 177,
+                    "jobTitleId": 79,
+                    "departmentId": 20
+                },
+                {
+                    "id": 180,
                     "jobTitleId": 18,
-                    "departmentId": 2
+                    "departmentId": 5
                 },
                 {
                     "id": 228,
@@ -601,19 +1663,6 @@
             "snils": "36193296400",
             "workPlaces": [
                 {
-                    "id": 661,
-                    "regDate": "2024-04-20T09:24:29.305Z",
-                    "departmentId": 3,
-                    "jobTitleId": 34,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:29.305Z",
-                    "endWorkDate": null,
-                    "profileId": 207,
-                    "employeeId": 423,
-                    "updated": "2024-04-20T09:24:29.305Z",
-                    "status": "active"
-                },
-                {
                     "id": 662,
                     "regDate": "2024-04-20T09:24:29.311Z",
                     "departmentId": 4,
@@ -624,6 +1673,19 @@
                     "profileId": 196,
                     "employeeId": 423,
                     "updated": "2024-04-20T09:24:29.311Z",
+                    "status": "active"
+                },
+                {
+                    "id": 661,
+                    "regDate": "2024-04-20T09:24:29.305Z",
+                    "departmentId": 3,
+                    "jobTitleId": 34,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:29.305Z",
+                    "endWorkDate": null,
+                    "profileId": 207,
+                    "employeeId": 423,
+                    "updated": "2024-04-20T09:24:29.305Z",
                     "status": "active"
                 }
             ],
@@ -643,14 +1705,14 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 207,
-                    "jobTitleId": 34,
-                    "departmentId": 3
-                },
-                {
                     "id": 196,
                     "jobTitleId": 34,
                     "departmentId": 4
+                },
+                {
+                    "id": 207,
+                    "jobTitleId": 34,
+                    "departmentId": 3
                 }
             ]
         },
@@ -997,19 +2059,6 @@
             "snils": "48375304915",
             "workPlaces": [
                 {
-                    "id": 744,
-                    "regDate": "2024-04-24T14:13:07.868Z",
-                    "departmentId": 17,
-                    "jobTitleId": 18,
-                    "specialityId": 5,
-                    "startWorkDate": "2024-04-20T09:24:26.251Z",
-                    "endWorkDate": null,
-                    "profileId": null,
-                    "employeeId": 414,
-                    "updated": "2024-04-24T14:13:22.19Z",
-                    "status": "active"
-                },
-                {
                     "id": 552,
                     "regDate": "2024-04-20T09:24:26.251Z",
                     "departmentId": 2,
@@ -1020,6 +2069,19 @@
                     "profileId": 178,
                     "employeeId": 414,
                     "updated": "2024-04-24T14:13:22.191Z",
+                    "status": "active"
+                },
+                {
+                    "id": 744,
+                    "regDate": "2024-04-24T14:13:07.868Z",
+                    "departmentId": 17,
+                    "jobTitleId": 18,
+                    "specialityId": 5,
+                    "startWorkDate": "2024-04-20T09:24:26.251Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 414,
+                    "updated": "2024-04-24T14:13:22.19Z",
                     "status": "active"
                 }
             ],
@@ -1351,19 +2413,6 @@
             "snils": "51167874596",
             "workPlaces": [
                 {
-                    "id": 700,
-                    "regDate": "2024-04-20T09:24:30.184Z",
-                    "departmentId": 6,
-                    "jobTitleId": 107,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:30.184Z",
-                    "endWorkDate": null,
-                    "profileId": 216,
-                    "employeeId": 403,
-                    "updated": "2024-04-20T09:24:30.184Z",
-                    "status": "active"
-                },
-                {
                     "id": 699,
                     "regDate": "2024-04-20T09:24:30.175Z",
                     "departmentId": 6,
@@ -1374,6 +2423,19 @@
                     "profileId": 200,
                     "employeeId": 403,
                     "updated": "2024-04-20T09:24:30.175Z",
+                    "status": "active"
+                },
+                {
+                    "id": 700,
+                    "regDate": "2024-04-20T09:24:30.184Z",
+                    "departmentId": 6,
+                    "jobTitleId": 107,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:30.184Z",
+                    "endWorkDate": null,
+                    "profileId": 216,
+                    "employeeId": 403,
+                    "updated": "2024-04-20T09:24:30.184Z",
                     "status": "active"
                 }
             ],
@@ -1705,19 +2767,6 @@
             "snils": "99716617380",
             "workPlaces": [
                 {
-                    "id": 675,
-                    "regDate": "2024-04-20T09:24:29.588Z",
-                    "departmentId": 4,
-                    "jobTitleId": 101,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:29.588Z",
-                    "endWorkDate": null,
-                    "profileId": 212,
-                    "employeeId": 395,
-                    "updated": "2024-04-20T09:24:29.588Z",
-                    "status": "active"
-                },
-                {
                     "id": 674,
                     "regDate": "2024-04-20T09:24:29.577Z",
                     "departmentId": 4,
@@ -1728,6 +2777,19 @@
                     "profileId": 211,
                     "employeeId": 395,
                     "updated": "2024-04-20T09:24:29.577Z",
+                    "status": "active"
+                },
+                {
+                    "id": 675,
+                    "regDate": "2024-04-20T09:24:29.588Z",
+                    "departmentId": 4,
+                    "jobTitleId": 101,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:29.588Z",
+                    "endWorkDate": null,
+                    "profileId": 212,
+                    "employeeId": 395,
+                    "updated": "2024-04-20T09:24:29.588Z",
                     "status": "active"
                 }
             ],
@@ -1747,13 +2809,13 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 212,
-                    "jobTitleId": 101,
+                    "id": 211,
+                    "jobTitleId": 99,
                     "departmentId": 4
                 },
                 {
-                    "id": 211,
-                    "jobTitleId": 99,
+                    "id": 212,
+                    "jobTitleId": 101,
                     "departmentId": 4
                 }
             ]
@@ -2515,19 +3577,6 @@
             "snils": "57955995999",
             "workPlaces": [
                 {
-                    "id": 645,
-                    "regDate": "2024-04-20T09:24:28.88Z",
-                    "departmentId": 4,
-                    "jobTitleId": 34,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:28.88Z",
-                    "endWorkDate": null,
-                    "profileId": 196,
-                    "employeeId": 355,
-                    "updated": "2024-04-20T09:24:28.88Z",
-                    "status": "active"
-                },
-                {
                     "id": 643,
                     "regDate": "2024-04-20T09:24:28.867Z",
                     "departmentId": 20,
@@ -2538,6 +3587,19 @@
                     "profileId": 195,
                     "employeeId": 355,
                     "updated": "2024-04-20T09:24:28.867Z",
+                    "status": "active"
+                },
+                {
+                    "id": 645,
+                    "regDate": "2024-04-20T09:24:28.88Z",
+                    "departmentId": 4,
+                    "jobTitleId": 34,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:28.88Z",
+                    "endWorkDate": null,
+                    "profileId": 196,
+                    "employeeId": 355,
+                    "updated": "2024-04-20T09:24:28.88Z",
                     "status": "active"
                 },
                 {
@@ -2570,9 +3632,9 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 196,
-                    "jobTitleId": 34,
-                    "departmentId": 4
+                    "id": 197,
+                    "jobTitleId": 27,
+                    "departmentId": 3
                 },
                 {
                     "id": 195,
@@ -2580,9 +3642,9 @@
                     "departmentId": 20
                 },
                 {
-                    "id": 197,
-                    "jobTitleId": 27,
-                    "departmentId": 3
+                    "id": 196,
+                    "jobTitleId": 34,
+                    "departmentId": 4
                 }
             ]
         },
@@ -2635,19 +3697,6 @@
             "snils": "41219634150",
             "workPlaces": [
                 {
-                    "id": 638,
-                    "regDate": "2024-04-20T09:24:28.73Z",
-                    "departmentId": 20,
-                    "jobTitleId": 27,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:28.73Z",
-                    "endWorkDate": null,
-                    "profileId": 195,
-                    "employeeId": 353,
-                    "updated": "2024-04-20T09:24:28.73Z",
-                    "status": "active"
-                },
-                {
                     "id": 639,
                     "regDate": "2024-04-20T09:24:28.74Z",
                     "departmentId": 4,
@@ -2658,6 +3707,19 @@
                     "profileId": 196,
                     "employeeId": 353,
                     "updated": "2024-04-20T09:24:28.74Z",
+                    "status": "active"
+                },
+                {
+                    "id": 638,
+                    "regDate": "2024-04-20T09:24:28.73Z",
+                    "departmentId": 20,
+                    "jobTitleId": 27,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:28.73Z",
+                    "endWorkDate": null,
+                    "profileId": 195,
+                    "employeeId": 353,
+                    "updated": "2024-04-20T09:24:28.73Z",
                     "status": "active"
                 }
             ],
@@ -3535,16 +4597,16 @@
             "snils": "97868535308",
             "workPlaces": [
                 {
-                    "id": 607,
-                    "regDate": "2024-04-20T09:24:27.857Z",
-                    "departmentId": 5,
-                    "jobTitleId": 27,
-                    "specialityId": 1,
+                    "id": 743,
+                    "regDate": "2024-04-24T14:12:19.79Z",
+                    "departmentId": 17,
+                    "jobTitleId": 18,
+                    "specialityId": 5,
                     "startWorkDate": "2024-04-20T09:24:27.848Z",
                     "endWorkDate": null,
-                    "profileId": 186,
+                    "profileId": null,
                     "employeeId": 325,
-                    "updated": "2024-04-24T14:12:32.96Z",
+                    "updated": "2024-04-27T11:06:59.091Z",
                     "status": "active"
                 },
                 {
@@ -3553,25 +4615,25 @@
                     "departmentId": 4,
                     "jobTitleId": 18,
                     "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:27.848Z",
-                    "endWorkDate": null,
+                    "startWorkDate": "2024-04-20T09:24:27.857Z",
+                    "endWorkDate": "2024-04-19T21:00:00Z",
                     "profileId": 184,
                     "employeeId": 325,
-                    "updated": "2024-04-24T14:12:32.96Z",
-                    "status": "active"
+                    "updated": "2024-04-27T11:06:59.093Z",
+                    "status": "dismissed"
                 },
                 {
-                    "id": 743,
-                    "regDate": "2024-04-24T14:12:19.79Z",
-                    "departmentId": 17,
-                    "jobTitleId": 18,
-                    "specialityId": 5,
-                    "startWorkDate": "2024-04-20T09:24:27.857Z",
-                    "endWorkDate": null,
-                    "profileId": null,
+                    "id": 607,
+                    "regDate": "2024-04-20T09:24:27.857Z",
+                    "departmentId": 5,
+                    "jobTitleId": 27,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:27.848Z",
+                    "endWorkDate": "2024-04-20T21:00:00Z",
+                    "profileId": 186,
                     "employeeId": 325,
-                    "updated": "2024-04-24T14:12:32.959Z",
-                    "status": "active"
+                    "updated": "2024-04-27T11:06:59.101Z",
+                    "status": "dismissed"
                 }
             ],
             "status": {
@@ -3590,19 +4652,9 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 186,
-                    "jobTitleId": 27,
-                    "departmentId": 5
-                },
-                {
                     "id": 226,
                     "jobTitleId": 18,
                     "departmentId": 17
-                },
-                {
-                    "id": 184,
-                    "jobTitleId": 18,
-                    "departmentId": 4
                 }
             ]
         },
@@ -5143,19 +6195,6 @@
             "snils": "66934976373",
             "workPlaces": [
                 {
-                    "id": 640,
-                    "regDate": "2024-04-20T09:24:28.772Z",
-                    "departmentId": 20,
-                    "jobTitleId": 27,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:28.772Z",
-                    "endWorkDate": null,
-                    "profileId": 195,
-                    "employeeId": 262,
-                    "updated": "2024-04-20T09:24:28.772Z",
-                    "status": "active"
-                },
-                {
                     "id": 641,
                     "regDate": "2024-04-20T09:24:28.781Z",
                     "departmentId": 3,
@@ -5166,6 +6205,19 @@
                     "profileId": 197,
                     "employeeId": 262,
                     "updated": "2024-04-20T09:24:28.781Z",
+                    "status": "active"
+                },
+                {
+                    "id": 640,
+                    "regDate": "2024-04-20T09:24:28.772Z",
+                    "departmentId": 20,
+                    "jobTitleId": 27,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:28.772Z",
+                    "endWorkDate": null,
+                    "profileId": 195,
+                    "employeeId": 262,
+                    "updated": "2024-04-20T09:24:28.772Z",
                     "status": "active"
                 }
             ],
@@ -5185,14 +6237,14 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 197,
-                    "jobTitleId": 27,
-                    "departmentId": 3
-                },
-                {
                     "id": 195,
                     "jobTitleId": 27,
                     "departmentId": 20
+                },
+                {
+                    "id": 197,
+                    "jobTitleId": 27,
+                    "departmentId": 3
                 }
             ]
         },
@@ -6481,19 +7533,6 @@
             "snils": "67498225256",
             "workPlaces": [
                 {
-                    "id": 658,
-                    "regDate": "2024-04-20T09:24:29.223Z",
-                    "departmentId": 6,
-                    "jobTitleId": 39,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:29.223Z",
-                    "endWorkDate": null,
-                    "profileId": 205,
-                    "employeeId": 113,
-                    "updated": "2024-04-20T09:24:29.223Z",
-                    "status": "active"
-                },
-                {
                     "id": 657,
                     "regDate": "2024-04-20T09:24:29.214Z",
                     "departmentId": 3,
@@ -6504,6 +7543,19 @@
                     "profileId": 204,
                     "employeeId": 113,
                     "updated": "2024-04-20T09:24:29.214Z",
+                    "status": "active"
+                },
+                {
+                    "id": 658,
+                    "regDate": "2024-04-20T09:24:29.223Z",
+                    "departmentId": 6,
+                    "jobTitleId": 39,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:29.223Z",
+                    "endWorkDate": null,
+                    "profileId": 205,
+                    "employeeId": 113,
+                    "updated": "2024-04-20T09:24:29.223Z",
                     "status": "active"
                 }
             ],
@@ -7459,13 +8511,13 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 190,
-                    "jobTitleId": 19,
+                    "id": 191,
+                    "jobTitleId": 24,
                     "departmentId": 2
                 },
                 {
-                    "id": 191,
-                    "jobTitleId": 24,
+                    "id": 190,
+                    "jobTitleId": 19,
                     "departmentId": 2
                 }
             ]
@@ -7561,14 +8613,14 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 178,
-                    "jobTitleId": 18,
-                    "departmentId": 2
-                },
-                {
                     "id": 226,
                     "jobTitleId": 18,
                     "departmentId": 17
+                },
+                {
+                    "id": 178,
+                    "jobTitleId": 18,
+                    "departmentId": 2
                 }
             ]
         },
@@ -7663,19 +8715,6 @@
             "snils": "39135432178",
             "workPlaces": [
                 {
-                    "id": 742,
-                    "regDate": "2024-04-24T14:11:04.326Z",
-                    "departmentId": 17,
-                    "jobTitleId": 18,
-                    "specialityId": 5,
-                    "startWorkDate": "2024-04-20T09:24:26.431Z",
-                    "endWorkDate": null,
-                    "profileId": null,
-                    "employeeId": 9,
-                    "updated": "2024-04-24T14:11:22.636Z",
-                    "status": "active"
-                },
-                {
                     "id": 558,
                     "regDate": "2024-04-20T09:24:26.431Z",
                     "departmentId": 2,
@@ -7684,6 +8723,19 @@
                     "startWorkDate": "2024-04-20T09:24:26.431Z",
                     "endWorkDate": null,
                     "profileId": 178,
+                    "employeeId": 9,
+                    "updated": "2024-04-24T14:11:22.636Z",
+                    "status": "active"
+                },
+                {
+                    "id": 742,
+                    "regDate": "2024-04-24T14:11:04.326Z",
+                    "departmentId": 17,
+                    "jobTitleId": 18,
+                    "specialityId": 5,
+                    "startWorkDate": "2024-04-20T09:24:26.431Z",
+                    "endWorkDate": null,
+                    "profileId": null,
                     "employeeId": 9,
                     "updated": "2024-04-24T14:11:22.636Z",
                     "status": "active"
@@ -7705,14 +8757,14 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 178,
-                    "jobTitleId": 18,
-                    "departmentId": 2
-                },
-                {
                     "id": 226,
                     "jobTitleId": 18,
                     "departmentId": 17
+                },
+                {
+                    "id": 178,
+                    "jobTitleId": 18,
+                    "departmentId": 2
                 }
             ]
         },
@@ -7722,19 +8774,6 @@
             "fio": "лазарева ирина владимировна",
             "snils": "24484818803",
             "workPlaces": [
-                {
-                    "id": 737,
-                    "regDate": "2024-04-24T13:21:15.534Z",
-                    "departmentId": 17,
-                    "jobTitleId": 18,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:26.375Z",
-                    "endWorkDate": null,
-                    "profileId": null,
-                    "employeeId": 7,
-                    "updated": "2024-04-24T14:04:07.545Z",
-                    "status": "active"
-                },
                 {
                     "id": 556,
                     "regDate": "2024-04-20T09:24:26.375Z",
@@ -7746,6 +8785,19 @@
                     "profileId": 178,
                     "employeeId": 7,
                     "updated": "2024-04-24T14:04:07.544Z",
+                    "status": "active"
+                },
+                {
+                    "id": 737,
+                    "regDate": "2024-04-24T13:21:15.534Z",
+                    "departmentId": 17,
+                    "jobTitleId": 18,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:26.375Z",
+                    "endWorkDate": null,
+                    "profileId": null,
+                    "employeeId": 7,
+                    "updated": "2024-04-24T14:04:07.545Z",
                     "status": "active"
                 }
             ],
@@ -7825,19 +8877,6 @@
             "snils": "69474829373",
             "workPlaces": [
                 {
-                    "id": 553,
-                    "regDate": "2024-04-20T09:24:26.286Z",
-                    "departmentId": 2,
-                    "jobTitleId": 18,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:26.286Z",
-                    "endWorkDate": null,
-                    "profileId": 178,
-                    "employeeId": 4,
-                    "updated": "2024-04-24T14:10:27.262Z",
-                    "status": "active"
-                },
-                {
                     "id": 741,
                     "regDate": "2024-04-24T14:09:43.894Z",
                     "departmentId": 17,
@@ -7846,6 +8885,19 @@
                     "startWorkDate": "2024-04-20T09:24:26.286Z",
                     "endWorkDate": null,
                     "profileId": null,
+                    "employeeId": 4,
+                    "updated": "2024-04-24T14:10:27.262Z",
+                    "status": "active"
+                },
+                {
+                    "id": 553,
+                    "regDate": "2024-04-20T09:24:26.286Z",
+                    "departmentId": 2,
+                    "jobTitleId": 18,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:26.286Z",
+                    "endWorkDate": null,
+                    "profileId": 178,
                     "employeeId": 4,
                     "updated": "2024-04-24T14:10:27.262Z",
                     "status": "active"
@@ -7867,14 +8919,14 @@
             "searchMatchField": "fio",
             "profiles": [
                 {
-                    "id": 178,
-                    "jobTitleId": 18,
-                    "departmentId": 2
-                },
-                {
                     "id": 226,
                     "jobTitleId": 18,
                     "departmentId": 17
+                },
+                {
+                    "id": 178,
+                    "jobTitleId": 18,
+                    "departmentId": 2
                 }
             ]
         },
@@ -7885,19 +8937,6 @@
             "snils": "41641623858",
             "workPlaces": [
                 {
-                    "id": 550,
-                    "regDate": "2024-04-20T09:24:26.177Z",
-                    "departmentId": 2,
-                    "jobTitleId": 18,
-                    "specialityId": 1,
-                    "startWorkDate": "2024-04-20T09:24:26.177Z",
-                    "endWorkDate": null,
-                    "profileId": 178,
-                    "employeeId": 2,
-                    "updated": "2024-04-24T14:07:45.733Z",
-                    "status": "active"
-                },
-                {
                     "id": 740,
                     "regDate": "2024-04-24T14:07:23.188Z",
                     "departmentId": 17,
@@ -7906,6 +8945,19 @@
                     "startWorkDate": "2024-04-20T09:24:26.177Z",
                     "endWorkDate": null,
                     "profileId": null,
+                    "employeeId": 2,
+                    "updated": "2024-04-24T14:07:45.733Z",
+                    "status": "active"
+                },
+                {
+                    "id": 550,
+                    "regDate": "2024-04-20T09:24:26.177Z",
+                    "departmentId": 2,
+                    "jobTitleId": 18,
+                    "specialityId": 1,
+                    "startWorkDate": "2024-04-20T09:24:26.177Z",
+                    "endWorkDate": null,
+                    "profileId": 178,
                     "employeeId": 2,
                     "updated": "2024-04-24T14:07:45.733Z",
                     "status": "active"
@@ -7981,7 +9033,7 @@
             ]
         }
     ],
-    "total": 178,
+    "total": 206,
     "page": 1,
-    "page-size": 20100
+    "page-size": 300
 }
