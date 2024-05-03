@@ -25,7 +25,7 @@ data["employees"].forEach(el => {
     users.push({
         "fio": el["fio"],
         "userName": el["userName"],
-        "workPlaces": Array.from(new Set(workPlace))
+        "jobTitleIds": Array.from(new Set(workPlace))
     })
 })
 
